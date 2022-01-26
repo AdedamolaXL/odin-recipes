@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes. This is a The Odin Project (TOP). A basic html constructed web page about home-made recipes. CSS properties will be added soon.
